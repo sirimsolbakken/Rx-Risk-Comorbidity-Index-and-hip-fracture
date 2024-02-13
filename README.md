@@ -4,7 +4,7 @@
 
 The aim of this register-based cohort study was to examine the association between morbidity measured by the medication-based Rx-Risk Comorbidity Index (Rx-Risk) and the risk of first hip fracture
 
-## Content: 
+## Content
 
 0.	**Data preparation:** Preparation of data files
 1.	**Table 1:** Descriptive statistics
